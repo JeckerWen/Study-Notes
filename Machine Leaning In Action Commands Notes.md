@@ -14,4 +14,4 @@ Machine Leaning In Actiong Commands Notes#
 
 - 处理误差：` myEye = randMat*invrandMat` ` myEye = eye(4)`
 
-	注意：eye(4):穿件4*4单位举证
+	注意：eye(4):穿件4*4单位矩阵
