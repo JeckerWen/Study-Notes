@@ -57,8 +57,8 @@ Python learning commands notes #
 		eg:
 		>>>classmates = ['Michael','yujie','tracy']
 		
-	- **len()**函数可以获取list元素的个数
-	- **append()**函数：可以在list中追加元素到末尾:
+	- **len()函数**：可以获取list元素的个数
+	- **append()函数**：可以在list中追加元素到末尾:
 		- `>>>classmates.append('Adam')`
 	- **insert()函数**：可以在list中的任意位置添加元素:
 		- `>>>classmates.insert(1,'jack')`
