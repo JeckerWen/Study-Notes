@@ -143,7 +143,15 @@ rew# git 操作
 		git clone git@github.com:michaelliao/gitskills.git
 
 	3. 两边都没有，随便你咋搞
+## 关于删除远程仓库文件
 
+
+	1.删除想要删除的文件或文件夹
+		git rm -r --cache filename
+	2.提交
+		git commit -m "说明"
+	3.上传
+		git push
 ## 关于分支管理
 
 	git 的分支管理是很轻便的，因为它只是将指针指向某个分支，每次移动指针。
